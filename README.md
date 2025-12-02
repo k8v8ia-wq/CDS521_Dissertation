@@ -44,7 +44,7 @@ The code performs analysis on three datasets with varying degrees of complexity 
     ```
 2.  Open the Jupyter Notebook:
     ```bash
-    jupyter notebook "5328ass2(2) (11).ipynb"
+    jupyter notebook "CDS521_Dissertation_Code.ipynb"
     ```
 3.  Run the cells sequentially to reproduce the training loss curves and accuracy results.
 
